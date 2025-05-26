@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @iamDevJeff
-- 👀 I’m interested in Automation Teachnoloogy
-- 🌱 I’m currently learning html css
-- 💞️ I’m looking foward to...
-- 📫 How to reach me o telegram
+-  I’m interested in Automation Teachnoloogy
+- scryptinig 
+-
 - 😄 Pronouns: him
 - ⚡ Fun fact: 
 
