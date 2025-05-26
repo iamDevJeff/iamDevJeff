@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @iamDevJeff
--  I’m interested in Automation Teachnoloogy
+-  J3ff
+-   Future is automated 
 - scryptinig 
 -
-- 😄 Pronouns: him
-- ⚡ Fun fact: 
+
 
 <!---
 iamDevJeff/iamDevJeff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
